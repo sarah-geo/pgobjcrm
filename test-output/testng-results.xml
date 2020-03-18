@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-16T16:31:07 IST" name="Default suite" finished-at="2020-03-16T16:32:00 IST" duration-ms="52486">
+    <groups>
+    </groups>
+    <test started-at="2020-03-16T16:31:07 IST" name="Default test" finished-at="2020-03-16T16:32:00 IST" duration-ms="52486">
+      <class name="com.crmtestcases.ContactsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crmtestcases.ContactsPageTest@56de5251]" started-at="2020-03-16T16:31:08 IST" name="setUp" finished-at="2020-03-16T16:31:30 IST" duration-ms="21903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crmtestcases.ContactsPageTest@56de5251]" started-at="2020-03-16T16:31:30 IST" name="addNewContact" data-provider="getTestData" finished-at="2020-03-16T16:31:35 IST" duration-ms="4743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Geo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[George]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Goo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewContact -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crmtestcases.ContactsPageTest@56de5251]" started-at="2020-03-16T16:31:35 IST" name="setUp" finished-at="2020-03-16T16:31:55 IST" duration-ms="20301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crmtestcases.ContactsPageTest@56de5251]" started-at="2020-03-16T16:31:55 IST" name="addNewContact" data-provider="getTestData" finished-at="2020-03-16T16:32:00 IST" duration-ms="4688" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Miss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nis]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mut]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[loo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewContact -->
+      </class> <!-- com.crmtestcases.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
