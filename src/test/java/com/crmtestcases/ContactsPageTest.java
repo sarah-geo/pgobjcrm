@@ -42,10 +42,10 @@ public class ContactsPageTest extends BaseClass{
 		
 //	}
 	
-//	@Test(priority =1 )
-//	public void selectContact() {
-//		contactsPage.selectContactsByName("test test");
-//	}
+	@Test(priority =1 )
+	public void selectContact() {
+		contactsPage.selectContactsByName("test test");
+	}
 	
 	@DataProvider
 	public Object[][] getTestData() {
